@@ -47,16 +47,6 @@ A project focused on document sharing and useful file-management workflows.
 
 [View my repositories](https://github.com/ashwithfrank?tab=repositories)
 
-### 📖 Daily Bible Verse
-A project bringing daily scripture, inspiration, and reflection to users.
-
-[Explore the project](https://github.com/ashwithfrank/daily-bible-verse)
-
-### 🧩 Game of Grid
-A sliding puzzle game built for Android.
-
-[Find my projects on GitHub](https://github.com/ashwithfrank?tab=repositories)
-
 ## 📊 GitHub Statistics
 
 <div align="center">
