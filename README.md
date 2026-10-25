@@ -42,10 +42,22 @@ Building useful things, one project at a time.
 
 ## 🚀 Featured Projects
 
-### 📂 AFDrive
-A project focused on document sharing and useful file-management workflows.
+### 📂 [AFDrive](https://github.com/ashwithfrank/AFDrive)
+A lightweight, self-hosted personal cloud that turns an Android phone into a private file server using Termux. Built with Flask, SQLite, HTML, CSS, and JavaScript.
 
-[View my repositories](https://github.com/ashwithfrank?tab=repositories)
+### ☁️ AFDrive Online
+An online extension of the AFDrive concept, exploring cloud-connected document sharing and access.
+
+### 🖥️ LilOS
+A lightweight operating system project exploring a simple, minimal computing experience.
+
+### 📖 [Daily Bible Verse](https://github.com/ashwithfrank/daily-bible-verse)
+A daily Scripture and inspiration project designed to bring Bible verses and reflections to users.
+
+### 🧩 Game of Grid
+A sliding puzzle game built for Android.
+
+[Explore all my repositories →](https://github.com/ashwithfrank?tab=repositories)
 
 ## 📊 GitHub Statistics
 
