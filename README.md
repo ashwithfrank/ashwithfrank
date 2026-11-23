@@ -42,6 +42,9 @@ Building useful things, one project at a time.
 
 ## 🚀 Featured Projects
 
+### 📁 [Polo](https://github.com/ashwithfrank/polo)
+An offline file manager and toolbox for Android.
+
 ### 📂 [AFDrive](https://github.com/ashwithfrank/AFDrive)
 A lightweight, self-hosted personal cloud that turns an Android phone into a private file server using Termux. Built with Flask, SQLite, HTML, CSS, and JavaScript.
 
